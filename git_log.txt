@@ -1,0 +1,14 @@
+*   f436b58 (HEAD -> main, origin/main, origin/HEAD) Resolve merge conflict
+|\  
+| * fe557be (index-fix) index-fix: finalize edits before switching
+| * ca76e27 index-fix: added favorite movie and food
+* | b476c06 main: change name/hobby
+* | 29dae96 Add favorite food div on main
+* |   a677073 Merge pull request #1 from Brynv15/info-fill
+|\ \  
+| |/  
+|/|   
+| * 9d61b18 (origin/info-fill, info-fill) Filled in blanks
+* | 428a0be Add README describing the repo
+|/  
+* 1d2bfc0 Added index.html
